@@ -1,5 +1,5 @@
-# map external-keyboard caps to ctrl:  
-# http://superuser.com/questions/741328/how-do-i-remap-the-caps-lock-key-in-chrome-os
+### map external-keyboard caps to ctrl:  
+http://superuser.com/questions/741328/how-do-i-remap-the-caps-lock-key-in-chrome-os
 
 1. Navigate to the keyboard settings overlay (chrome://settings/keyboard-overlay)
 2. Right click on "Alt" and choose Inspect Element
