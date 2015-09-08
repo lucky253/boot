@@ -1,11 +1,19 @@
 # https://github.com/dnschneid/crouton
 
-# download: https://goo.gl/fd3zc
 
-# chroot install
-sudo ~/Downloads/crouton -r trusty -t xfce,extension
+# 1. download crouton: https://goo.gl/fd3zc
+# 2. install chroot
+sudo ~/Downloads/crouton -r trusty -t xfce,extension   
 
-# keybindings
+# 3. download Chrome 
+sudo enter-chroot
+sudo dpkg -i ~/Downloads/chrome....deb
+sudo apt-get install -f
+
+
+
+
+# KEYBINDINGS
 
 # making chromebook media keys work
 sudo sh -e ~/Downloads/crouton -t keyboard -u
