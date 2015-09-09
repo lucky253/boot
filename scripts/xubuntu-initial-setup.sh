@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # install basics
-sudo apt-get install ssh git software-center gnome-terminal software-properties-common default-jdk autokey-jdk
+sudo apt-get install ssh git software-center gnome-terminal software-properties-common default-jdk
 
 sudo apt-add-repository ppa:synapse-core/testing
 sudo apt-get update
