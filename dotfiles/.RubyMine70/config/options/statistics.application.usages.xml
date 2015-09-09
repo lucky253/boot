@@ -1,29 +1,29 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
-      <project id="boot" values="Git" collectionTime="1441763142192" />
+      <project id="boot" values="Git" collectionTime="1441767275748" />
     </group>
     <group name="JavaScript versions">
-      <project id="boot" values="DEFAULT" collectionTime="1441763142365" />
+      <project id="boot" values="DEFAULT" collectionTime="1441767275953" />
     </group>
     <group name="ruby-project-type">
-      <project id="boot" values="plain ruby" collectionTime="1441763142221" />
+      <project id="boot" values="plain ruby" collectionTime="1441767275768" />
     </group>
     <group name="file-type">
-      <project id="boot" values="ARCHIVE,PLAIN_TEXT,UNKNOWN,XML" collectionTime="1441763142208" />
+      <project id="boot" values="PLAIN_TEXT,UNKNOWN,Bash,XML,ARCHIVE" collectionTime="1441767275757" />
     </group>
     <group name="module type">
-      <project id="boot" values="RUBY_MODULE" collectionTime="1441763142192" />
+      <project id="boot" values="RUBY_MODULE" collectionTime="1441767275749" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="boot" values="Project,Project" collectionTime="1441763142365" />
+      <project id="boot" values="Project,Project" collectionTime="1441767275953" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="1" />
-      <entry feature="ide.settings.Keymap" count="5" />
-      <entry feature="ideaapp.started" count="3" />
+      <entry feature="CreateFile.CreateFileAction" count="3" />
+      <entry feature="ide.settings.Keymap" count="23" />
+      <entry feature="ideaapp.started" count="4" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>

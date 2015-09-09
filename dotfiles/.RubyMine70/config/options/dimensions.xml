@@ -3,9 +3,16 @@
     <location key="FileChooserDialogImpl.0.0.2560.1440" x="1063" y="310" />
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="230" />
     <location key="SettingsEditor.0.0.2560.1440" x="208" y="70" />
-    <location key="CommitChangelistDialog2.0.0.2560.1440" x="766" y="256" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="173" y="54" />
+    <location key="DiffContextDialog.0.0.2560.1440" x="210" y="81" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="230" />
+    <location key="SettingsEditor.0.0.1920.1080" x="598" y="206" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="766" y="256" />
     <size key="FileChooserDialogImpl.0.0.2560.1440" width="426" height="490" />
     <size key="SettingsEditor.0.0.2560.1440" width="1683" height="973" />
-    <size key="CommitChangelistDialog2.0.0.2560.1440" width="689" height="588" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="1620" height="956" />
+    <size key="DiffContextDialog.0.0.2560.1440" width="1538" height="899" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1024" height="688" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="689" height="588" />
   </component>
 </application>

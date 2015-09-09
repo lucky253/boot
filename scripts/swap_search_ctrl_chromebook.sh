@@ -7,5 +7,3 @@ if type croutonversion &>/dev/null; then
   xmodmap -e "add control = Control_L"
   xmodmap -e "remove control = Overlay1_Enable"
 fi
-d .
-ls

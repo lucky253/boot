@@ -36,14 +36,14 @@ ssh-keygen
 ######## END MANUAL STEPS #########
 
 
-
+# setup checked-in configs:
 
 git clone git@github.com:leword/boot.git
 
 # setup dotfile symlinks
 cd ~
-ln -sf boot/dotfiles/.gconf .
-ln -sf ~/.bashrc ~/boot/dotfiles/.bashrc
-ls -sf ~/.config/xfce4 ~/boot/dotfiles/.config/xfce4
-ls -sf ~/.config/xfce4-session ~/boot/dotfiles/.config/xfce4-session
-ls -sf ~/.RubyMine70/config ~/boot/dotfiles/.config/xfce4-session
+ln -sf boot/dotfiles/.gconf .gconf
+ln -sf boot/dotfiles/.bashrc .bashrc
+ls -sf boot/dotfiles/.config/xfce4         .config/xfce4
+ls -sf boot/dotfiles/.config/xfce4-session .config/xfce4-session
+ls -sf boot/dotfiles/.config/RubyMine70/config RubyMine70/config

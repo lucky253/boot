@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # https://github.com/dnschneid/crouton
 
@@ -7,10 +8,10 @@
 sudo ~/Downloads/crouton -r trusty -t xfce,extension,keyboard   
 
 # making chromebook media keys work.  in chrome-os:
-sudo sh -e ~/Downloads/crouton -t keyboard -u
+# sudo sh -e ~/Downloads/crouton -t keyboard -u
 
 # in chroot:
-sudo su
+ su
 cd /etc/defaults
-mv keyboard keyboard.orig
-sed s/pc105/chromebook/ <keyboard.orig >keyboard
+sudo mv keyboard keyboard.orig
+sudo sed s/pc105/chromebook/ <keyboard.orig >keyboard
