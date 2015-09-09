@@ -23,10 +23,10 @@
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceField" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="30" last-shown="0" last-used="1441780455854" shown-count="0" />
+    <feature id="editing.select.word" count="31" last-shown="0" last-used="1441781411711" shown-count="0" />
     <feature id="ruby.tools.rails.generators.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="ruby.tools.rake.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ruby.tools.rake.popup" count="1" last-shown="0" last-used="1441781258667" shown-count="0" />
     <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.class" count="2" last-shown="0" last-used="1441768448880" shown-count="0" />
@@ -40,7 +40,7 @@
     <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ruby.navigation.rails.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.recent.files" count="8" last-shown="0" last-used="1441773118419" shown-count="0" />
+    <feature id="navigation.recent.files" count="9" last-shown="0" last-used="1441781624502" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.camelHumps" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />

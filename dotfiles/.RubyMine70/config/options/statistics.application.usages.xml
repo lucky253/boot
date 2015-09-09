@@ -1,30 +1,33 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="vcs">
-      <project id="boot" values="Git" collectionTime="1441776223031" />
+      <project id="boot" values="Git" collectionTime="1441781509695" />
     </group>
     <group name="JavaScript versions">
-      <project id="boot" values="DEFAULT" collectionTime="1441776223061" />
+      <project id="boot" values="DEFAULT" collectionTime="1441781509718" />
     </group>
     <group name="ruby-project-type">
-      <project id="boot" values="plain ruby" collectionTime="1441776223055" />
+      <project id="boot" values="plain ruby" collectionTime="1441781509715" />
     </group>
     <group name="file-type">
-      <project id="boot" values="Markdown,Bash,ARCHIVE,UNKNOWN,XML,Git file,PLAIN_TEXT" collectionTime="1441776223044" />
+      <project id="boot" values="Bash,JSON,ARCHIVE,XML,PLAIN_TEXT,Git file,UNKNOWN,Markdown" collectionTime="1441781509706" />
     </group>
     <group name="module type">
-      <project id="boot" values="RUBY_MODULE" collectionTime="1441776223031" />
+      <project id="boot" values="RUBY_MODULE" collectionTime="1441781509696" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="boot" values="Project,Project" collectionTime="1441776223061" />
+      <project id="boot" values="Project,Project" collectionTime="1441781509718" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
-      <entry feature="ide.settings.Keymap" count="26" />
-      <entry feature="ideaapp.started" count="10" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.Keymap" count="27" />
+      <entry feature="ideaapp.started" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>

@@ -8,8 +8,8 @@
 	<entry name="font" mtime="1441754222" type="string">
 		<stringvalue>Monospace 12</stringvalue>
 	</entry>
-	<entry name="scrollbar_position" mtime="1441754222" type="string">
-		<stringvalue>right</stringvalue>
+	<entry name="scrollbar_position" mtime="1441815575" type="string">
+		<stringvalue>hidden</stringvalue>
 	</entry>
 	<entry name="use_system_font" mtime="1441754222" type="bool" value="true"/>
 	<entry name="word_chars" mtime="1441754222" type="string">

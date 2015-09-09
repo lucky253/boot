@@ -31,6 +31,10 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt K" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift control F4" />
+    <keyboard-shortcut first-keystroke="alt W" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.History.Browse" />
   <action id="Console.TableResult.CloneRow" />

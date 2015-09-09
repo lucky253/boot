@@ -13,7 +13,7 @@
     <property name="file.colors.enable.tests" value="2a3b2c" />
     <property name="Non-Project Files" value="494539" />
     <property name="Tests" value="2a3b2c" />
-    <property name="KEYMAP" value="move&#10;column&#10;action&#10;select all&#10;code block" />
+    <property name="KEYMAP" value="close tab&#10;move&#10;column&#10;action&#10;select all" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.62700963" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
