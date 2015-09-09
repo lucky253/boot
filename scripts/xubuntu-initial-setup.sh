@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 
-# install basics
-sudo apt-get install ssh git software-center gnome-terminal software-properties-common default-jdk
-
+# install packages
 sudo apt-add-repository ppa:synapse-core/testing
 sudo apt-get update
-sudo apt-get install synapse
+sudo apt-get install ssh git software-center gnome-terminal software-properties-common default-jdk synapse
+
 
 # configure git
 git config --global user.email "lewis.hoffman@gmail.com"
@@ -17,27 +16,21 @@ git config --global alias.st status
 git config --global push.default simple
 
 
-######## MANUAL STEPS #########
-
-# WEB: Download chrome
+# MANUAL: Download chrome
 sudo dpkg -i ~/Downloads/chrome-xxx.deb
 sudo apt-get install -f
 
-google-chrome-stable
-# WEB: log in:to chrome
+# MANUAL: log in google account in chrome
+
+# MANUAL: Download RubyMine
+
 
 # generate new ssh key
 ssh-keygen
 
-# WEB: install new ssh key in github
+# MANUAL: install new ssh key in github
 
-# WEB: Download RubyMine.
-
-######## END MANUAL STEPS #########
-
-
-# setup checked-in configs:
-
+# get boot project
 git clone git@github.com:leword/boot.git
 
 # setup dotfile symlinks
