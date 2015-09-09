@@ -18,5 +18,17 @@
     <size key="CommitChangelistDialog2.0.0.1920.1080" width="1920" height="1049" />
     <size key="findTextDialog.0.0.1920.1080" width="410" height="495" />
     <size key="FileChooserDialogImpl.0.0.1920.1080" width="426" height="493" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="1430" height="439" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="1430" height="439" />
   </component>
 </application>

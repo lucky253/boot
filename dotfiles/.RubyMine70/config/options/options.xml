@@ -26,7 +26,10 @@
     <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
-    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="run.configuration.alternate.action.ad" value="true" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p481/bin/ruby:BASE_20" value="0.1.4" />
+    <property name="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p481/bin/ruby:IDE" value="0.4.32" />
   </component>
 </application>

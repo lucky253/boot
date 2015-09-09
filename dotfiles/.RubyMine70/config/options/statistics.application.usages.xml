@@ -1,45 +1,52 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="JavaScript versions">
-      <project id="boot" values="DEFAULT" collectionTime="1441781509718" />
-      <project id="glassfrog" values="DEFAULT" collectionTime="1441823554673" />
+      <project id="boot" values="DEFAULT" collectionTime="1441835590871" />
+      <project id="glassfrog" values="DEFAULT" collectionTime="1441836108295" />
     </group>
     <group name="module type">
-      <project id="boot" values="RUBY_MODULE" collectionTime="1441781509696" />
-      <project id="glassfrog" values="RUBY_MODULE" collectionTime="1441823554642" />
+      <project id="boot" values="RUBY_MODULE" collectionTime="1441835590435" />
+      <project id="glassfrog" values="RUBY_MODULE" collectionTime="1441836108279" />
     </group>
     <group name="vcs">
-      <project id="boot" values="Git" collectionTime="1441781509695" />
-      <project id="glassfrog" values="Git" collectionTime="1441823554641" />
+      <project id="boot" values="Git" collectionTime="1441835590434" />
+      <project id="glassfrog" values="Git" collectionTime="1441836108279" />
     </group>
     <group name="run-configuration-type">
-      <project id="glassfrog" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="1441823554643" />
+      <project id="glassfrog" values="RailsRunConfigurationType,RakeRunConfigurationType" collectionTime="1441836108279" />
     </group>
     <group name="file-type">
-      <project id="boot" values="Bash,JSON,ARCHIVE,XML,PLAIN_TEXT,Git file,UNKNOWN,Markdown" collectionTime="1441781509706" />
-      <project id="glassfrog" values="YAML,UNKNOWN,XML,Markdown,PLAIN_TEXT,HAML,RXML,RHTML,SCSS,Git file,Images,HTML,Bash,JSON,CSS,JavaScript,Ruby" collectionTime="1441823554655" />
+      <project id="boot" values="XML,Markdown,PLAIN_TEXT,Bash,ARCHIVE,Git file,JSON,UNKNOWN" collectionTime="1441835590507" />
+      <project id="glassfrog" values="HAML,SCSS,Images,JavaScript,Ruby,RHTML,Markdown,UNKNOWN,CSS,YAML,XML,PLAIN_TEXT,HTML,RXML,Native,JSON,Git file,Bash" collectionTime="1441836108288" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="glassfrog" values="ruby-2.0.0-p481" collectionTime="1441836108290" />
     </group>
     <group name="ruby-project-type">
-      <project id="boot" values="plain ruby" collectionTime="1441781509715" />
-      <project id="glassfrog" values="rails unknown" collectionTime="1441823554666" />
+      <project id="boot" values="plain ruby" collectionTime="1441835590524" />
+      <project id="glassfrog" values="rails 3.2" collectionTime="1441836108290" />
     </group>
     <group name="frameworks">
-      <project id="glassfrog" values="RailsFacetType" collectionTime="1441823554641" />
+      <project id="glassfrog" values="RailsFacetType" collectionTime="1441836108279" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="glassfrog" values="sqlite3,pivotal_git_scripts,actionpack,addressable,shoulda-context,net-ssh,foundation-rails,binding_of_caller,polyglot,delayed_job,eventmachine,shoulda-matchers,axlsx,ts-delayed-delta,rack-protection,parallel,tzinfo,ffi,activemodel,pg,better_errors,raindrops,unicorn,strong_parameters,ruby-ole,tilt,jquery-rails,polyamorous,jasmine-core,engineyard-serverside-adapter,thin,httpclient,mailcatcher,rack,power_assert,mini_portile,rabl,auto_complete,cells,multi_json,colored,jasmine,connection_pool,pundit,mime-types,actionmailer,coderay,escape,capybara,metaclass,execjs,sprockets,thor,parallel_tests,sass-rails,rack-throttle,orm_adapter,websocket,sinatra,active_model_serializers,acts_as_list,dalli,engineyard,hike,builder,rails,valuable,highline,schema_plus,simplecov,rack-ssl,rack-test,thinking-sphinx,riddle,docile,pusher,selenium-webdriver,sass,engineyard-cloud-client,dynamic_form,premailer-rails,rest-client,premailer,stripe,daemons,xpath,phantomjs,uglifier,htmlentities,childprocess,method_source,newrelic_rpm,signature,railties,rack-cache,kgio,zip,debug_inspector,shoulda,pry,devise,launchy,squeel,react-source,mail,htmldiff,ey_config,rubyzip,codeclimate-test-reporter,test-unit,acts_as_archival,journey,skinny,spreadsheet,haml,rinku,css_parser,delayed_job_active_record,pry-remote,nokogiri,activesupport,activerecord,slop,treetop,bundler,warden,rdoc,gravtastic,capybara-screenshot,i18n,rake,activeresource,erubis,netrc,bcrypt-ruby,json,url_field,mocha,uber,aasm,arel,simplecov-html,react-rails" collectionTime="1441836108291" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="boot" values="Project,Project" collectionTime="1441781509718" />
-      <project id="glassfrog" values="Project,Project" collectionTime="1441823554673" />
+      <project id="boot" values="Project,Project" collectionTime="1441835590871" />
+      <project id="glassfrog" values="Project,Project" collectionTime="1441836108295" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
       <entry feature="CreateFile.CreateFileAction" count="5" />
+      <entry feature="execute.RailsRunConfigurationType.Debug" count="2" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Font" count="4" />
       <entry feature="ide.settings.Keymap" count="28" />
-      <entry feature="ideaapp.started" count="11" />
+      <entry feature="ideaapp.started" count="12" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>

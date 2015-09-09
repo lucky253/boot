@@ -41,6 +41,9 @@ rake db:test:prepare
 rake db:fixtures:load
 rake parallel:create
 rake parallel:prepare
+rake ts:config
+rake ts:index
+rake ts:run
 
 
 # sphinx
