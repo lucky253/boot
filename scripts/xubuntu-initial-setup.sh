@@ -41,9 +41,26 @@ ssh-keygen
 git clone git@github.com:leword/boot.git
 
 # setup dotfile symlinks
-cd ~
-ln -sf ~/boot/dotfiles/.gconf ~/.gconf
-ln -sf ~/boot/dotfiles/.bashrc ~/.bashrc
-ls -sf ~/boot/dotfiles/.config/xfce4         ~/.config/xfce4
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config ~/.RubyMine70/config
+ln -sf ~/boot/dotfiles/.gconf          ~/.gconf
+ln -sf ~/boot/dotfiles/.bashrc         ~/.bashrc
+ls -sf ~/boot/dotfiles/.config/xfce4   ~/.config/xfce4
+ln -sf ~/boot/dotfiles/.config/synapse ~/.config/synapse
+
+
+## After rubymine install/first run?  or point rubymine to dotfiles
+
+rm -rf ~/.RubyMine70/config/codestyles
+rm -rf ~/.RubyMine70/config/keymaps
+rm -rf ~/.RubyMine70/config/options
+rm -rf ~/.RubyMine70/config/inspection
+rm -rf ~/.RubyMine70/config/quicklists
+rm -rf ~/.RubyMine70/config/tasks
+
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/codestyles ~/.RubyMine70/config/codestyles
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/keymaps ~/.RubyMine70/config/keymaps
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/options ~/.RubyMine70/config/options
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/inspection ~/.RubyMine70/config/inspection
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/quicklists ~/.RubyMine70/config/quicklists
+ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/tasks ~/.RubyMine70/config/tasks
+
 #ls -sf ~/boot/dotfiles/.config/xfce4-session ~/.config/xfce4-session
