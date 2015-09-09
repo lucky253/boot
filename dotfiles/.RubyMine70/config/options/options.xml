@@ -13,10 +13,18 @@
     <property name="file.colors.enable.tests" value="2a3b2c" />
     <property name="Non-Project Files" value="494539" />
     <property name="Tests" value="2a3b2c" />
-    <property name="KEYMAP" value="select all&#10;code block&#10;tab&#10;line&#10;delete word" />
+    <property name="KEYMAP" value="move&#10;column&#10;action&#10;select all&#10;code block" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.62700963" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
     <property name="MoveFile.OpenInEditor" value="true" />
+    <property name="favorites.view.settings.show.members" value="false" />
+    <property name="favorites.view.settings.flatten.packages" value="false" />
+    <property name="favorites.view.settings.autoscroll.to.source" value="true" />
+    <property name="favorites.view.settings.autoscroll.from.source" value="true" />
+    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
+    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
   </component>
 </application>

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+setxkbmap -option ctrl:nocaps
+
 if type croutonversion &>/dev/null; then
   #If this is a crouton chroot, then swap left ctrl and search keys
   xmodmap -e "keycode 133 = Control_L"
@@ -7,3 +9,4 @@ if type croutonversion &>/dev/null; then
   xmodmap -e "add control = Control_L"
   xmodmap -e "remove control = Overlay1_Enable"
 fi
+
