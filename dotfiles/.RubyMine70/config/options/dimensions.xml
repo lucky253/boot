@@ -2,6 +2,10 @@
   <component name="DimensionService">
     <location key="FileChooserDialogImpl.0.0.2560.1440" x="1063" y="310" />
     <location key="WELCOME_SCREEN.0.0.2560.1440" x="1280" y="230" />
+    <location key="SettingsEditor.0.0.2560.1440" x="208" y="70" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="766" y="256" />
     <size key="FileChooserDialogImpl.0.0.2560.1440" width="426" height="490" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1683" height="973" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="689" height="588" />
   </component>
 </application>

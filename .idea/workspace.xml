@@ -2,21 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e9f102c-9608-47dd-a2d2-c975e02d1bf7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startup_scripts/swap_search_ctrl_chromebook.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/global/%gconf.xml" afterPath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/global/%gconf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/keybindings/%gconf.xml" afterPath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/keybindings/%gconf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml" afterPath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/profiles/Profile0/%gconf.xml" afterPath="$PROJECT_DIR$/dotfiles/.gconf/apps/gnome-terminal/profiles/Profile0/%gconf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.bashrc" afterPath="$PROJECT_DIR$/dotfiles/.bashrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xubuntu/apps.sh" afterPath="$PROJECT_DIR$/xubuntu/apps.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.config/xfce4/helpers.rc" afterPath="$PROJECT_DIR$/dotfiles/.config/xfce4/helpers.rc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" afterPath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml" afterPath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml" afterPath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml" afterPath="$PROJECT_DIR$/dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/xubuntu/apps.sh" afterPath="$PROJECT_DIR$/xubuntu/setup.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/dimensions.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/dimensions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/plugins/extensions.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/plugins/extensions.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/feature.usage.statistics.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/feature.usage.statistics.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/keymap.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/keymap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/options.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/options.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/recentProjectDirectories.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/recentProjectDirectories.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/statistics.application.usages.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/statistics.application.usages.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/stubIndex.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/stubIndex.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/window.manager.xml" afterPath="$PROJECT_DIR$/dotfiles/.RubyMine70/config/options/window.manager.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="boot.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,16 +28,17 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="boot" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="apps.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xubuntu/apps.sh">
+      <file leaf-file-name="setup.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xubuntu/setup.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.19586506">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -53,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swap_search_ctrl_chromebook.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="swap_search_ctrl_chromebook.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startup_scripts/swap_search_ctrl_chromebook.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2112676">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
@@ -74,6 +75,7 @@
         <option value="$PROJECT_DIR$/xubuntu/apps.sh" />
         <option value="$PROJECT_DIR$/dotfiles/.bashrc" />
         <option value="$PROJECT_DIR$/startup_scripts/swap_search_ctrl_chromebook.sh" />
+        <option value="$PROJECT_DIR$/xubuntu/setup.sh" />
       </list>
     </option>
   </component>
@@ -85,10 +87,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="904" />
-    <option name="y" value="222" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="412" />
+    <option name="y" value="44" />
+    <option name="width" value="1405" />
+    <option name="height" value="1015" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -113,23 +115,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="boot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -190,14 +181,29 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="" />
@@ -307,6 +313,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2e9f102c-9608-47dd-a2d2-c975e02d1bf7" name="Default" comment="" />
@@ -317,7 +326,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="904" y="222" width="1400" height="1000" extended-state="0" />
+    <frame x="412" y="44" width="1405" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -325,20 +334,28 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24875267" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -348,7 +365,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xubuntu/apps.sh">
+    <entry file="file://$PROJECT_DIR$/xubuntu/setup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotfiles/.bashrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="114" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/startup_scripts/swap_search_ctrl_chromebook.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xubuntu/setup.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
@@ -372,14 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xubuntu/apps.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dotfiles/.bashrc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -390,8 +423,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/startup_scripts/swap_search_ctrl_chromebook.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2112676">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xubuntu/setup.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19586506">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
           <folding />
         </state>
       </provider>

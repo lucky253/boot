@@ -5,6 +5,11 @@
         <option value="$USER_HOME$/boot" />
       </list>
     </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/boot" />
+      </list>
+    </option>
     <option name="lastPath" value="$USER_HOME$/boot" />
   </component>
 </application>
