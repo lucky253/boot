@@ -97,11 +97,9 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;KP_7" type="string" value="move_window_workspace_7_key"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Right" type="string" value="right_workspace_key"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;Right" type="string" value="move_window_right_key"/>
-      <property name="&lt;Primary&gt;&lt;Alt&gt;d" type="string" value="show_desktop_key"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Up" type="string" value="up_workspace_key"/>
       <property name="&lt;Primary&gt;F7" type="string" value="workspace_7_key"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;Home" type="string" value="move_window_prev_workspace_key"/>
-      <property name="&lt;Alt&gt;F4" type="string" value="close_window_key"/>
       <property name="&lt;Primary&gt;&lt;Shift&gt;&lt;Alt&gt;Left" type="string" value="move_window_left_key"/>
       <property name="&lt;Alt&gt;F6" type="string" value="stick_window_key"/>
       <property name="&lt;Alt&gt;F10" type="string" value="maximize_window_key"/>
@@ -127,7 +125,6 @@
       <property name="&lt;Primary&gt;F4" type="string" value="workspace_4_key"/>
       <property name="&lt;Primary&gt;F5" type="string" value="workspace_5_key"/>
       <property name="&lt;Primary&gt;F6" type="string" value="workspace_6_key"/>
-      <property name="&lt;Alt&gt;space" type="string" value="popup_menu_key"/>
       <property name="&lt;Primary&gt;F8" type="string" value="workspace_8_key"/>
       <property name="&lt;Primary&gt;F9" type="string" value="workspace_9_key"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;KP_1" type="string" value="move_window_workspace_1_key"/>
@@ -139,6 +136,7 @@
       <property name="&lt;Primary&gt;&lt;Alt&gt;KP_4" type="string" value="move_window_workspace_4_key"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;KP_5" type="string" value="move_window_workspace_5_key"/>
       <property name="override" type="bool" value="true"/>
+      <property name="&lt;Alt&gt;q" type="string" value="close_window_key"/>
     </property>
   </property>
   <property name="providers" type="array">

@@ -112,16 +112,3 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-
-  xmodmap -e "keycode 133 = Control_L"
-  xmodmap -e "keycode 37 = Overlay1_Enable"
-  xmodmap -e "add control = Control_L"
-  xmodmap -e "remove control = Overlay1_Enable"
-
-if type croutonversion &>/dev/null; then
-  #If this is a crouton chroot, then swap left ctrl and search keys
-  xmodmap -e "keycode 133 = Control_L"
-  xmodmap -e "keycode 37 = Overlay1_Enable"
-  xmodmap -e "add control = Control_L"
-  xmodmap -e "remove control = Overlay1_Enable"
-fi

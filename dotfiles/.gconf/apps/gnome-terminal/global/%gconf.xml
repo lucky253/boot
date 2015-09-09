@@ -1,5 +1,7 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="use_menu_accelerators" mtime="1441760027" type="bool" value="false"/>
+	<entry name="use_mnemonics" mtime="1441760026" type="bool" value="false"/>
 	<entry name="default_profile" mtime="1441754243" type="string">
 		<stringvalue>Profile0</stringvalue>
 	</entry>

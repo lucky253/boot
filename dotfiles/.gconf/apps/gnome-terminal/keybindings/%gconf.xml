@@ -1,5 +1,11 @@
 <?xml version="1.0"?>
 <gconf>
+	<entry name="copy" mtime="1441760035" type="string">
+		<stringvalue>&lt;Alt&gt;c</stringvalue>
+	</entry>
+	<entry name="paste" mtime="1441760034" type="string">
+		<stringvalue>&lt;Alt&gt;v</stringvalue>
+	</entry>
 	<entry name="close_window" mtime="1441755331" type="string">
 		<stringvalue>&lt;Alt&gt;q</stringvalue>
 	</entry>
