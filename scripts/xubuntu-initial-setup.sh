@@ -3,7 +3,10 @@
 # install packages
 sudo apt-add-repository ppa:synapse-core/testing
 sudo apt-get update
-sudo apt-get install ssh git software-center gnome-terminal software-properties-common default-jdk synapse
+sudo apt-get install ssh git software-center gnome-terminal \
+  software-properties-common default-jdk synapse curl \
+  postgresql-9.3 libpq-dev nodejs
+
 
 
 # configure git

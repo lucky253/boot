@@ -1,32 +1,44 @@
 <application>
   <component name="StatisticsApplicationUsages">
-    <group name="vcs">
-      <project id="boot" values="Git" collectionTime="1441781509695" />
-    </group>
     <group name="JavaScript versions">
       <project id="boot" values="DEFAULT" collectionTime="1441781509718" />
-    </group>
-    <group name="ruby-project-type">
-      <project id="boot" values="plain ruby" collectionTime="1441781509715" />
-    </group>
-    <group name="file-type">
-      <project id="boot" values="Bash,JSON,ARCHIVE,XML,PLAIN_TEXT,Git file,UNKNOWN,Markdown" collectionTime="1441781509706" />
+      <project id="glassfrog" values="DEFAULT" collectionTime="1441823554673" />
     </group>
     <group name="module type">
       <project id="boot" values="RUBY_MODULE" collectionTime="1441781509696" />
+      <project id="glassfrog" values="RUBY_MODULE" collectionTime="1441823554642" />
+    </group>
+    <group name="vcs">
+      <project id="boot" values="Git" collectionTime="1441781509695" />
+      <project id="glassfrog" values="Git" collectionTime="1441823554641" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="glassfrog" values="RakeRunConfigurationType,RailsRunConfigurationType" collectionTime="1441823554643" />
+    </group>
+    <group name="file-type">
+      <project id="boot" values="Bash,JSON,ARCHIVE,XML,PLAIN_TEXT,Git file,UNKNOWN,Markdown" collectionTime="1441781509706" />
+      <project id="glassfrog" values="YAML,UNKNOWN,XML,Markdown,PLAIN_TEXT,HAML,RXML,RHTML,SCSS,Git file,Images,HTML,Bash,JSON,CSS,JavaScript,Ruby" collectionTime="1441823554655" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="boot" values="plain ruby" collectionTime="1441781509715" />
+      <project id="glassfrog" values="rails unknown" collectionTime="1441823554666" />
+    </group>
+    <group name="frameworks">
+      <project id="glassfrog" values="RailsFacetType" collectionTime="1441823554641" />
     </group>
     <group name="javaScript Scope Usages">
       <project id="boot" values="Project,Project" collectionTime="1441781509718" />
+      <project id="glassfrog" values="Project,Project" collectionTime="1441823554673" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="4" />
+      <entry feature="CreateFile.CreateFileAction" count="5" />
       <entry feature="ide.settings.Appearance" count="1" />
       <entry feature="ide.settings.Code_Style" count="1" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
       <entry feature="ide.settings.Font" count="4" />
-      <entry feature="ide.settings.Keymap" count="27" />
+      <entry feature="ide.settings.Keymap" count="28" />
       <entry feature="ideaapp.started" count="11" />
       <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="1" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />

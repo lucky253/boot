@@ -2,6 +2,8 @@
   <component name="FindRecents">
     <findStrings>
       <find>cuso</find>
+      <find>success</find>
+      <find>close</find>
     </findStrings>
   </component>
 </application>
