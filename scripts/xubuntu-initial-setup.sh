@@ -5,7 +5,7 @@ sudo apt-add-repository ppa:synapse-core/testing
 sudo apt-get update
 sudo apt-get install ssh git software-center gnome-terminal \
   software-properties-common default-jdk synapse curl \
-  postgresql-9.3 libpq-dev nodejs chromium-chromedriver
+  postgresql-9.3 libpq-dev nodejs chromium-chromedriver sphinxsearch
 
 sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
 
@@ -39,7 +39,7 @@ git clone git@github.com:leword/boot.git
 # setup dotfile symlinks
 ln -sf ~/boot/dotfiles/.gconf          ~/.gconf
 ln -sf ~/boot/dotfiles/.bashrc         ~/.bashrc
-ls -sf ~/boot/dotfiles/.config/xfce4   ~/.config/xfce4
+ln -sf ~/boot/dotfiles/.config/xfce4   ~/.config/xfce4
 ln -sf ~/boot/dotfiles/.config/synapse ~/.config/synapse
 
 
@@ -52,11 +52,11 @@ rm -rf ~/.RubyMine70/config/inspection
 rm -rf ~/.RubyMine70/config/quicklists
 rm -rf ~/.RubyMine70/config/tasks
 
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/codestyles ~/.RubyMine70/config/codestyles
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/keymaps ~/.RubyMine70/config/keymaps
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/options ~/.RubyMine70/config/options
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/inspection ~/.RubyMine70/config/inspection
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/quicklists ~/.RubyMine70/config/quicklists
-ls -sf ~/boot/dotfiles/.config/.RubyMine70/config/tasks ~/.RubyMine70/config/tasks
+ln -sf ~/boot/dotfiles/.RubyMine70/config/codestyles ~/.RubyMine70/config/codestyles
+ln -sf ~/boot/dotfiles/.RubyMine70/config/keymaps ~/.RubyMine70/config/keymaps
+ln -sf ~/boot/dotfiles/.RubyMine70/config/options ~/.RubyMine70/config/options
+ln -sf ~/boot/dotfiles/.RubyMine70/config/inspection ~/.RubyMine70/config/inspection
+ln -sf ~/boot/dotfiles/.RubyMine70/config/quicklists ~/.RubyMine70/config/quicklists
+ln -sf ~/boot/dotfiles/.RubyMine70/config/tasks ~/.RubyMine70/config/tasks
 
 #ls -sf ~/boot/dotfiles/.config/xfce4-session ~/.config/xfce4-session

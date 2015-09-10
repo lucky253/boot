@@ -6,7 +6,7 @@
     <property name="RubyMine.full.reindex.required" value="1" />
     <property name="installation.uid" value="b2a2c4b2-5ae5-48e3-b145-07455654bcfb" />
     <property name="Ruby.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/glassfrog&#10;/home/lewis/boot" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/boot&#10;/home/lewis/workspace/glassfrog" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="file.colors.enable.non.project" value="494539" />
@@ -26,7 +26,7 @@
     <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
-    <property name="OpenOrAttachDialog.OpenMode" value="replace" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="run.configuration.alternate.action.ad" value="true" />
     <property name="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p481/bin/ruby:BASE_20" value="0.1.4" />

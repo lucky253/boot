@@ -32,7 +32,7 @@ echo "update pg_database set datallowconn = TRUE where datname = 'template0';
 # workspace/glassfrog
 mkdir -p ~/workspace
 cd ~/workspace
-git checkout git@github.com:holacracyone/glassfrog.git
+git clone git@github.com:holacracyone/glassfrog.git
 cd glassfrog
 bundle
 

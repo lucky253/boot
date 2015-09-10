@@ -23,7 +23,7 @@
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceField" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="35" last-shown="0" last-used="1441825851015" shown-count="0" />
+    <feature id="editing.select.word" count="45" last-shown="0" last-used="1441865554208" shown-count="0" />
     <feature id="ruby.tools.rails.generators.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ruby.tools.rake.popup" count="1" last-shown="0" last-used="1441781258667" shown-count="0" />
