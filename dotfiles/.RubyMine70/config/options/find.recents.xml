@@ -4,6 +4,24 @@
       <find>cuso</find>
       <find>success</find>
       <find>close</find>
+      <find>IN_DEBUG_MODE</find>
+      <find>$('#jasmine_content')</find>
+      <find>jasmine_content</find>
+      <find>beforeunload</find>
+      <find>location.href</find>
+      <find>doh</find>
+      <find>l</find>
+      <find>window</find>
+      <find>confit.asset</find>
+      <find>config.assets</find>
+      <find>location</find>
+      <find>debugger</find>
+      <find>replace</find>
+      <find>href</find>
     </findStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/.rvm/gems/ruby-2.0.0-p481@glassfrog/gems/jasmine-2.0.2/lib</dir>
+      <dir>$USER_HOME$/.rvm/gems/ruby-2.0.0-p481@glassfrog/gems/jasmine-core-2.0.2/lib</dir>
+    </dirStrings>
   </component>
 </application>

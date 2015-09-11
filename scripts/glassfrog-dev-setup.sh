@@ -47,3 +47,4 @@ rake ts:run
 
 
 # sphinx
+gem install pivotal_git_scripts

@@ -218,6 +218,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift alt S" />
     <keyboard-shortcut first-keystroke="shift control S" />
+    <keyboard-shortcut first-keystroke="control alt S" />
   </action>
   <action id="Git.Add" />
   <action id="GotoAction" />
@@ -235,7 +236,9 @@
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
-  <action id="GotoLine" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="alt L" />
+  </action>
   <action id="GotoRow" />
   <action id="GotoSymbol" />
   <action id="GotoTypeDeclaration">
@@ -301,7 +304,6 @@
   <action id="SaveAll" />
   <action id="SendEOF" />
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="control alt S" />
     <keyboard-shortcut first-keystroke="alt COMMA" />
   </action>
   <action id="SurroundWithLiveTemplate" />
@@ -328,6 +330,9 @@
   </action>
   <action id="VcsHistory.ShowAllAffected" />
   <action id="context.save" />
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="shift alt G" />
+  </action>
   <action id="openAssertEqualsDiff" />
   <action id="tasks.open.in.browser" />
 </keymap>

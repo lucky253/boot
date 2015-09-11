@@ -13,7 +13,7 @@
     <property name="file.colors.enable.tests" value="2a3b2c" />
     <property name="Non-Project Files" value="494539" />
     <property name="Tests" value="2a3b2c" />
-    <property name="KEYMAP" value="close&#10;close tab&#10;find&#10;move&#10;column" />
+    <property name="KEYMAP" value="focus&#10;find&#10;line number&#10;config&#10;close" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.62700963" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
     <property name="FindSplitterProportion" value="0.25" />
@@ -31,5 +31,10 @@
     <property name="run.configuration.alternate.action.ad" value="true" />
     <property name="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p481/bin/ruby:BASE_20" value="0.1.4" />
     <property name="$USER_HOME$/.rvm/rubies/ruby-2.0.0-p481/bin/ruby:IDE" value="0.4.32" />
+    <property name="debug.configuration.alternate.action.ad" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="rake.run.task.popup.search.mask" value="jasmine" />
+    <property name="Copy.OpenInEditor" value="true" />
   </component>
 </application>

@@ -6,7 +6,7 @@ row=3
 col=0
 
 [ROOT-A]
-row=1
+row=0
 col=0
 
 [8a6d191e-987b-4f5a-8e7b-cc182a4fb56f]
@@ -14,7 +14,7 @@ row=4
 col=0
 
 [0eb6ea83-d723-4741-a343-6983b2ff957a]
-row=0
+row=2
 col=0
 
 [Trash]

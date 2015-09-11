@@ -2,9 +2,9 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=postgres
+Name=memcached
 Comment=
-Exec=/usr/bin/gksu /etc/init.d/postgresql start
+Exec=/usr/bin/gksu /etc/init.d/memcached start
 OnlyShowIn=XFCE;
 StartupNotify=false
 Terminal=false

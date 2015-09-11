@@ -8,3 +8,4 @@ export PATH="$PATH:$HOME/.rvm/bin"
 export SPHINX_PATH="/usr/bin"
 
 #source /home/lewis/.rvm/scripts/rvm
+ [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" # Load RVM function
