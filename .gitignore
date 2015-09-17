@@ -1,1 +1,3 @@
 .idea
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/*
+dotfiles/.config/xfce4/desktop/*
