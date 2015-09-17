@@ -1,3 +1,11 @@
 .idea
-dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/*
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+
 dotfiles/.config/xfce4/desktop/*
+
+dotfiles/.RubyMine70/config/options/gemmanager.xml
+dotfiles/.RubyMine70/config/options/statistics.application.usages.xml
+dotfiles/.RubyMine70/config/options/window.manager.xml
+dotfiles/.RubyMine70/config/options/applicationLibraries.xml
+dotfiles/.RubyMine70/config/options/feature.usage.statistics.xml
