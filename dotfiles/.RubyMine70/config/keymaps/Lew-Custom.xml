@@ -26,6 +26,11 @@
     <keyboard-shortcut first-keystroke="alt Z" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="control alt B" />
+  </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
   <action id="CheckinProject">
@@ -72,23 +77,19 @@
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
     <keyboard-shortcut first-keystroke="alt CLOSE_BRACKET" />
-    <keyboard-shortcut first-keystroke="control alt F" />
     <keyboard-shortcut first-keystroke="control alt E" />
   </action>
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift control CLOSE_BRACKET" />
-    <keyboard-shortcut first-keystroke="shift control alt F" />
     <keyboard-shortcut first-keystroke="shift control alt E" />
   </action>
   <action id="EditorCodeBlockStart">
     <keyboard-shortcut first-keystroke="control OPEN_BRACKET" />
     <keyboard-shortcut first-keystroke="alt OPEN_BRACKET" />
-    <keyboard-shortcut first-keystroke="control alt B" />
     <keyboard-shortcut first-keystroke="control alt A" />
   </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift control OPEN_BRACKET" />
-    <keyboard-shortcut first-keystroke="shift control alt B" />
     <keyboard-shortcut first-keystroke="shift control alt A" />
   </action>
   <action id="EditorDecreaseFontSize">
@@ -212,13 +213,23 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt F3" />
-    <keyboard-shortcut first-keystroke="alt S" />
     <keyboard-shortcut first-keystroke="control S" />
+    <keyboard-shortcut first-keystroke="alt S" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift alt S" />
     <keyboard-shortcut first-keystroke="shift control S" />
     <keyboard-shortcut first-keystroke="control alt S" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="alt S" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="control alt F" />
   </action>
   <action id="Git.Add" />
   <action id="GotoAction" />
