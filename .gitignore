@@ -1,6 +1,7 @@
 .idea
-dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/*
 dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/displays.xml
 
 dotfiles/.config/xfce4/desktop/icon*
 
@@ -10,3 +11,8 @@ dotfiles/.RubyMine70/config/options/window.manager.xml
 dotfiles/.RubyMine70/config/options/applicationLibraries.xml
 dotfiles/.RubyMine70/config/options/feature.usage.statistics.xml
 dotfiles/.RubyMine70/config/options/dimensions.xml
+dotfiles/.RubyMine70/config/options/find.recents.xml
+dotfiles/.RubyMine70/config/options/jdk.table.xml
+dotfiles/.RubyMine70/config/options/recentProjectDirectories.xml
+dotfiles/.RubyMine70/config/options/runner.layout.xml
+
