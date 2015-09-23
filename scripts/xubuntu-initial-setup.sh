@@ -9,15 +9,7 @@ sudo apt-get install ssh git software-center gnome-terminal \
 
 sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
 
-# configure git
-git config --global user.email "lewis.hoffman@gmail.com"
-git config --global user.name "Lewis Hoffman"
-git config --global alias.co checkout
-git config --global alias.br branch
-git config --global alias.ci commit
-git config --global alias.st status
-git config --global push.default simple
-
+~/boot/scripts/set-git-aliases.sh
 
 # MANUAL: Download chrome
 sudo dpkg -i ~/Downloads/chrome-xxx.deb
