@@ -36,3 +36,11 @@ ln -sf ~/boot/dotfiles/.config/synapse ~/.config/synapse
 
 
 ~/boot/scripts/link-rubymine.sh
+
+
+# disable screen blanking / shutdown
+sudo apt-get remove light-locker
+xset -dpms
+xset s off
+xset s noblank
+
