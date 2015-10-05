@@ -20,3 +20,9 @@ dotfiles/.RubyMine70/config/options/recentProjectDirectories.xml
 dotfiles/.RubyMine70/config/options/ignore.xml
 dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
 dotfiles/.RubyMine70/config/options/usage.statistics.xml
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/*
+dotfiles/.config/xfce4/xfconf/xfce-perchannel-xml/**
+dotfiles/.config/xfce4/desktop
+dotfiles/.config/xfce4/desktop/*
+dotfiles/.config/xfce4/desktop/**
