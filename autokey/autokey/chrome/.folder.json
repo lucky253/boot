@@ -1,0 +1,25 @@
+{
+    "usageCount": 0, 
+    "abbreviation": {
+        "wordChars": "[\\w]", 
+        "abbreviations": [], 
+        "immediate": false, 
+        "ignoreCase": false, 
+        "backspace": true, 
+        "triggerInside": false
+    }, 
+    "modes": [], 
+    "title": "chrome", 
+    "hotkey": {
+        "hotKey": "a", 
+        "modifiers": [
+            "<ctrl>"
+        ]
+    }, 
+    "filter": {
+        "regex": "Google-chrome-stable.Google-chrome-stable", 
+        "isRecursive": true
+    }, 
+    "type": "folder", 
+    "showInTrayMenu": false
+}
