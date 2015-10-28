@@ -1,8 +1,8 @@
 {
-    "usageCount": 24, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "paste", 
+    "description": "shift-up", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "v", 
+        "hotKey": "p", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>", 
+            "<shift>"
         ]
     }, 
     "modes": [

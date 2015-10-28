@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 51, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "undo", 
+    "description": "ctrl-alt-down", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "z", 
+        "hotKey": "n", 
         "modifiers": [
-            "<alt>"
+            "<alt>", 
+            "<ctrl>"
         ]
     }, 
     "modes": [

@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 9, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "search", 
+    "description": "shift-down", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "s", 
+        "hotKey": "n", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>", 
+            "<shift>"
         ]
     }, 
     "modes": [

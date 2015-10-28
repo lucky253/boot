@@ -1,8 +1,8 @@
 {
-    "usageCount": 1, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "line-start", 
+    "description": "select-word-left", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "a", 
+        "hotKey": "b", 
         "modifiers": [
-            "<ctrl>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

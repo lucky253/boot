@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 32, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "cut", 
+    "description": "line-start", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "x", 
+        "hotKey": "a", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>"
         ]
     }, 
     "modes": [

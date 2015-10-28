@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 41, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "forward-word", 
+    "description": "undo", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "f", 
+        "hotKey": "z", 
         "modifiers": [
             "<alt>"
         ]

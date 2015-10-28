@@ -1,8 +1,8 @@
 {
-    "usageCount": 24, 
+    "usageCount": 5, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "paste", 
+    "description": "right", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "v", 
+        "hotKey": "f", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>"
         ]
     }, 
     "modes": [

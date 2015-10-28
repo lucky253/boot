@@ -1,0 +1,8 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <outdatedPlugins>
+      <item value="org.intellij.plugins.markdown" />
+      <item value="BashSupport" />
+    </outdatedPlugins>
+  </component>
+</application>
