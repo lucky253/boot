@@ -17,7 +17,7 @@
         ]
     }, 
     "filter": {
-        "regex": "Google-chrome-stable.Google-chrome-stable", 
+        "regex": ".*chrome.*", 
         "isRecursive": true
     }, 
     "type": "folder", 

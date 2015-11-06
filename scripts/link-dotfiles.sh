@@ -24,3 +24,13 @@ do
 done
 
 link_dir ~/boot/dotfiles/.$RUBYMINE/glassfrogRunConfigurations ~/workspace/glassfrog/.idea/runConfigurations
+
+# do autokey while we're at it
+for DIR in data
+do
+	ORIG_DIR=~/.config/autokey/$DIR
+	BOOT_DIR=~/boot/dotfiles/.config/autokey/$DIR
+	link_dir $BOOT_DIR $ORIG_DIR
+done
+
+

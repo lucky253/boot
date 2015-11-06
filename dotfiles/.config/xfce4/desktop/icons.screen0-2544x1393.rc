@@ -1,20 +1,12 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[0eb6ea83-d723-4741-a343-6983b2ff957a]
-row=0
-col=0
-
-[7733-3E9F]
-row=3
-col=0
-
-[ROOT-A]
-row=2
-col=0
-
-[8a6d191e-987b-4f5a-8e7b-cc182a4fb56f]
+[/home/lewis/Desktop/xfce4-session-logout.desktop]
 row=4
+col=0
+
+[Ubuntu-Server 14.04.3 LTS amd64]
+row=0
 col=0
 
 [Trash]
