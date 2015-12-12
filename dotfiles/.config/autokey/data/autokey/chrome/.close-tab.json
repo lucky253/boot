@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 23, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "close-tab", 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "w", 
+        "hotKey": "1", 
         "modifiers": [
             "<alt>"
         ]

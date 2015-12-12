@@ -1,8 +1,8 @@
 {
-    "usageCount": 160, 
+    "usageCount": 2, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "page-down", 
+    "description": "delete-prev-word", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,19 +12,21 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "e", 
+        "hotKey": "h", 
         "modifiers": [
-            "<alt>"
+            "<alt>", 
+            "<ctrl>"
         ]
     }, 
     "modes": [
         3
     ], 
     "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "phrase", 
+    "sendMode": "kb"
 }

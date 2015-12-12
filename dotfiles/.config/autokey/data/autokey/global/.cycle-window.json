@@ -1,8 +1,8 @@
 {
-    "usageCount": 160, 
+    "usageCount": 11, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "page-down", 
+    "description": "cycle-window", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "e", 
+        "hotKey": "<f2>", 
         "modifiers": [
             "<alt>"
         ]
@@ -20,11 +20,12 @@
     "modes": [
         3
     ], 
-    "showInTrayMenu": false, 
+    "showInTrayMenu": true, 
+    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "phrase", 
+    "sendMode": "kb"
 }

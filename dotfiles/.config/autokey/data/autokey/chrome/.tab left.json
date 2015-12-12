@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 17, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "tab left", 
@@ -12,10 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "[", 
+        "hotKey": "2", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<alt>"
         ]
     }, 
     "modes": [

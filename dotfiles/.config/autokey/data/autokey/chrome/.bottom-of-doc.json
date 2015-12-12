@@ -1,8 +1,8 @@
 {
-    "usageCount": 160, 
+    "usageCount": 72, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "page-down", 
+    "description": "bottom-of-doc", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "e", 
+        "hotKey": "r", 
         "modifiers": [
             "<alt>"
         ]
@@ -21,10 +21,11 @@
         3
     ], 
     "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "phrase", 
+    "sendMode": "kb"
 }
