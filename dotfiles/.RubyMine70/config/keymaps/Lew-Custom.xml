@@ -30,6 +30,7 @@
     <keyboard-shortcut first-keystroke="control alt LEFT" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="control alt B" />
+    <keyboard-shortcut first-keystroke="KP_DOWN" />
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Diff" />
@@ -41,6 +42,17 @@
     <keyboard-shortcut first-keystroke="control F4" />
     <keyboard-shortcut first-keystroke="alt W" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift control MINUS" />
+    <keyboard-shortcut first-keystroke="control BEGIN" />
+    <keyboard-shortcut first-keystroke="KP_RIGHT" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="control alt SUBTRACT" />
+    <keyboard-shortcut first-keystroke="control alt MINUS" />
+    <keyboard-shortcut first-keystroke="BEGIN" />
+  </action>
+  <action id="CollapseTreeNode" />
   <action id="CompareTwoFiles" />
   <action id="Console.History.Browse" />
   <action id="Console.Jdbc.Close">
@@ -57,6 +69,8 @@
   <action id="Diagram.SelectAll" />
   <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
+  <action id="DomCollectionControl.Add" />
+  <action id="DomElementsTreeView.AddElement" />
   <action id="EditMacros">
     <keyboard-shortcut first-keystroke="control alt X" />
   </action>
@@ -135,7 +149,6 @@
     <keyboard-shortcut first-keystroke="shift control B" />
   </action>
   <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="END" />
     <keyboard-shortcut first-keystroke="control E" />
   </action>
   <action id="EditorLineEndWithSelection">
@@ -143,7 +156,6 @@
     <keyboard-shortcut first-keystroke="shift control E" />
   </action>
   <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="HOME" />
     <keyboard-shortcut first-keystroke="control A" />
   </action>
   <action id="EditorLineStartWithSelection">
@@ -161,6 +173,8 @@
     <keyboard-shortcut first-keystroke="shift control RIGHT" />
     <keyboard-shortcut first-keystroke="shift alt F" />
   </action>
+  <action id="EditorPageDown" />
+  <action id="EditorPageUp" />
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="control LEFT" />
     <keyboard-shortcut first-keystroke="alt B" />
@@ -176,6 +190,13 @@
   <action id="EditorRightWithSelection">
     <keyboard-shortcut first-keystroke="shift RIGHT" />
     <keyboard-shortcut first-keystroke="shift control F" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="PAGE_UP" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="HOME" />
   </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="control END" />
@@ -197,6 +218,11 @@
     <keyboard-shortcut first-keystroke="shift alt INSERT" />
     <keyboard-shortcut first-keystroke="shift alt 8" />
   </action>
+  <action id="EditorToggleInsertState" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift control W" />
+    <keyboard-shortcut first-keystroke="KP_UP" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="UP" />
     <keyboard-shortcut first-keystroke="control P" />
@@ -208,6 +234,16 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="EvaluateExpression" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift control EQUALS" />
+    <keyboard-shortcut first-keystroke="control KP_LEFT" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="control ADD" />
+    <keyboard-shortcut first-keystroke="control EQUALS" />
+    <keyboard-shortcut first-keystroke="KP_LEFT" />
+  </action>
+  <action id="ExpandTreeNode" />
   <action id="ExportToTextFile" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
@@ -234,6 +270,7 @@
     <keyboard-shortcut first-keystroke="control alt RIGHT" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="control alt F" />
+    <keyboard-shortcut first-keystroke="PAGE_DOWN" />
   </action>
   <action id="Git.Add" />
   <action id="GotoAction" />
@@ -244,6 +281,7 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="alt G" />
     <keyboard-shortcut first-keystroke="control G" />
+    <keyboard-shortcut first-keystroke="END" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="alt O" />
@@ -262,6 +300,12 @@
   </action>
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="EQUALS" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="MINUS" />
   </action>
   <action id="Inline" />
   <action id="IntroduceConstant" />
@@ -345,10 +389,13 @@
   </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="alt F8" />
+    <keyboard-shortcut first-keystroke="ADD" />
   </action>
   <action id="RerunTests" />
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift alt F8" />
+    <keyboard-shortcut first-keystroke="INSERT" />
+    <keyboard-shortcut first-keystroke="SUBTRACT" />
   </action>
   <action id="SaveAll" />
   <action id="SendEOF" />
@@ -382,6 +429,11 @@
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift alt 0" />
+  </action>
+  <action id="UsageView.Include" />
+  <action id="UsageView.Rerun">
+    <keyboard-shortcut first-keystroke="alt F8" />
+    <keyboard-shortcut first-keystroke="ADD" />
   </action>
   <action id="UsageView.ShowRecentFindUsages">
     <keyboard-shortcut first-keystroke="alt E" />
