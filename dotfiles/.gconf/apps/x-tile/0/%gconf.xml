@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="custom" mtime="1450106819" type="string">
+		<stringvalue></stringvalue>
+	</entry>
+	<entry name="show_toolbar" mtime="1450106774" type="string">
+		<stringvalue>True</stringvalue>
+	</entry>
+	<entry name="toolbar_icon_size" mtime="1450106773" type="int" value="3"/>
+	<entry name="systray_start" mtime="1450106773" type="string">
+		<stringvalue>False</stringvalue>
+	</entry>
+	<entry name="systray_enable" mtime="1450106773" type="string">
+		<stringvalue>True</stringvalue>
+	</entry>
+	<entry name="use_appind" mtime="1450106773" type="string">
+		<stringvalue>False</stringvalue>
+	</entry>
+	<entry name="only_curr_desk" mtime="1450106773" type="string">
+		<stringvalue>False</stringvalue>
+	</entry>
+	<entry name="not_minimized" mtime="1450106773" type="string">
+		<stringvalue>False</stringvalue>
+	</entry>
+	<entry name="exit_after_tile" mtime="1450106773" type="string">
+		<stringvalue>True</stringvalue>
+	</entry>
+</gconf>
