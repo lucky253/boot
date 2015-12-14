@@ -2,10 +2,13 @@
 
 # install packages
 sudo apt-add-repository ppa:synapse-core/testing
+sudo add-apt-repository ppa:colingille/freshlight
+
 sudo apt-get update
 sudo apt-get install ssh git software-center gnome-terminal \
   software-properties-common default-jdk synapse curl \
-  postgresql-9.3 libpq-dev nodejs chromium-chromedriver sphinxsearch
+  postgresql-9.3 libpq-dev nodejs chromium-chromedriver sphinxsearch \
+  winusb
 
 sudo ln -s /usr/lib/chromium-browser/chromedriver /usr/local/bin/chromedriver
 
