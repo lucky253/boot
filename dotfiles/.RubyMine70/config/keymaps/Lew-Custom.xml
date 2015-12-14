@@ -52,6 +52,7 @@
     <keyboard-shortcut first-keystroke="control alt MINUS" />
     <keyboard-shortcut first-keystroke="BEGIN" />
   </action>
+  <action id="CollapseSelection" />
   <action id="CollapseTreeNode" />
   <action id="CompareTwoFiles" />
   <action id="Console.History.Browse" />
@@ -92,6 +93,7 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="alt Z" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="control CLOSE_BRACKET" />
     <keyboard-shortcut first-keystroke="control alt E" />
@@ -273,7 +275,10 @@
     <keyboard-shortcut first-keystroke="PAGE_DOWN" />
   </action>
   <action id="Git.Add" />
-  <action id="GotoAction" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="control PERIOD" />
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
   <action id="GotoBookmark9" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
@@ -351,6 +356,7 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift control alt O" />
   </action>
+  <action id="OverrideMethods" />
   <action id="ParameterInfo" />
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift control V" />
@@ -378,6 +384,7 @@
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt E" />
+    <keyboard-shortcut first-keystroke="control O" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="control R" />
