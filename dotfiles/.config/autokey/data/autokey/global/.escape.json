@@ -1,8 +1,8 @@
 {
-    "usageCount": 7, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "delete-right", 
+    "description": "escape", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,19 +12,18 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "d", 
-        "modifiers": [
-            "<ctrl>"
-        ]
+        "hotKey": "`", 
+        "modifiers": []
     }, 
     "modes": [
         3
     ], 
     "showInTrayMenu": false, 
+    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "script", 
-    "store": {}
+    "type": "phrase", 
+    "sendMode": "kb"
 }
