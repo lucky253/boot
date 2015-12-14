@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 3, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "escape", 
@@ -12,8 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "`", 
-        "modifiers": []
+        "hotKey": "h", 
+        "modifiers": [
+            "<alt>"
+        ]
     }, 
     "modes": [
         3
